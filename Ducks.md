@@ -1,6 +1,6 @@
 ### Ducks
 
-There are many different spiecies of ducks. Please add them here:
+There are many different breeds of ducks. Please add them here:
 
 * Pekin
 * Muskovy
