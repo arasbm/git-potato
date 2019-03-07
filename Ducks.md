@@ -11,3 +11,5 @@ There are many different spiecies of ducks. Please add them here:
 * Alabio
 * Marbled
 * Whistling
+* German sheperd
+* The Woof Woof Kind
