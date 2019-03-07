@@ -17,3 +17,12 @@ There are many different spiecies of dogs. Please add them here:
   / - \
  /    |
 V__) ||
+
+* Woofer
+   / \__
+  (    @\___
+  /         O
+ /   (_____/
+/_____/   U
+
+
