@@ -2,7 +2,7 @@
 
 There are many different spiecies of dogs. Please add them here:
 
-* Doggo
+Doggo
     ___
  __/_  `.  .-"""-.
  \_,` | \-'  /   )`-')
@@ -10,10 +10,18 @@ There are many different spiecies of dogs. Please add them here:
  ___Y  ,    .'7 /|
 (_,___/...-` (_/_/
 
-* Yapper
+Yapper
   /^ ^\
  / 0 0 \
  V\ Y /V
   / - \
  /    |
 V__) ||
+
+SubWoofer
+ _   _
+/(. .)\    )
+  (*)____/|
+  /       |
+ /   |--\ |
+(_)(_)  (_)
